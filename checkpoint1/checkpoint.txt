@@ -1,0 +1,18 @@
+Web development involves creating and maintaining websites and web applications
+
+Web development is vital in shaping the internet landscape, enabling businesses and individuals to establish a strong online presence, communicate effectively, and drive innovation.
+
+HTML stands for HyperText Markup Language.
+HTML's primary purpose is to structure and organize content on the web, making it readable and understandable by web browsers and other devices
+
+CSS stands for  (Cascading Style Sheets)
+CSS is a styling language used in web development to control the layout, appearance, and behavior of web pages.
+
+JavaScript is a high-level, dynamic, and interpreted programming language used for client-side scripting on the web. It's a crucial tool for building interactive, dynamic, and responsive websites.
+
+1. Improved user experience
+2. Enhanced interactivity
+3. Faster development
+
+No
+I actually start web design to gain information that will help me solve problems around me and invent something new that will be helpful to my community,country and the world at large 
