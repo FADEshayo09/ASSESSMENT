@@ -1,0 +1,58 @@
+/* Custom Navbar Color */
+.custom-nav {
+    background-color: #b6b306; 
+    color: rgba(255, 255, 255, 0.411); 
+}
+.hero-btn{
+    background-color: #b6b306;
+}
+@media (min-width: 768px) {
+    .hero-section {
+        text-align: center !important; /* Override to center the text */
+    }
+
+    .hero-section h1,
+    .hero-section p {
+        text-align: center !important; /* Center the text in the heading and paragraph */
+    }
+}
+.menu-h2{
+    color: #b6b306 ;
+}
+.card-title{
+    color: #b6b306;
+}
+
+/* menu Section Styles */
+.card {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+/* Button Styling */
+.btn-store {
+    background-color: #b6b306;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.btn-store:hover {
+    background-color: #5a5901;
+    color: #fff;
+}
+.text-center{
+    color:#b6b306;
+}
+
+.foot-section{
+    background-color: #b6b306 ;
+}
