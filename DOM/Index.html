@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shopping Cart</title>
+  <link rel="Stylesheet" href="Style.css"> <!-- Link to the external CSS file -->
+</head>
+<body>
+  <div class="cart">
+    <div class="cart-item">
+      <img src="assets/Caesar Salad.jpg" alt="Caesar Salad" class="item-image">
+      <p class="item-name">Caesar Salad</p>
+      <button class="decrease-btn">-</button>
+      <span class="item-quantity">1</span>
+      <button class="increase-btn">+</button>
+      <button class="delete-btn">Delete</button>
+      <button class="like-btn">&#10084;</button>
+      <span class="item-price">$20.00</span>
+    </div>
+    
+    <div class="cart-item">
+      <img src="assets/Cinnamon Rolls.jpg" alt="Item 2" class="item-image">
+      <p class="item-name">Cinnamon Rolls</p>
+      <button class="decrease-btn">-</button>
+      <span class="item-quantity">1</span>
+      <button class="increase-btn">+</button>
+      <button class="delete-btn">Delete</button>
+      <button class="like-btn">&#10084;</button>
+      <span class="item-price">$15.00</span>
+    </div>
+
+    <div class="total-price">
+      <p>Total Price: $<span id="total">35.00</span></p>
+    </div>
+  </div>
+
+  <script src="javascript.js"></script> <!-- Link to the external JavaScript file -->
+</body>
+</html>
